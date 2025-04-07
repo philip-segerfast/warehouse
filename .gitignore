@@ -34,3 +34,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Local database
+src/main/resources/warehouse_db.mv.db
